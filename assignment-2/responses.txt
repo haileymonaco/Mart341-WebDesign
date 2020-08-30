@@ -1,1 +1,5 @@
-
+The World Wide Web (www) is a collection of information, the internet is how you access that information. 
+The internet is the connection of multiple networks all over the world that moves data from one point to another. 
+Directories are the nesting of the folders/file system. Directory structures resemble a tree, with a single root that branches off into related groups of content. Whatever current folder you are on is the active directory, and any folders inside that current folder (directory) are subdirectories. 
+Version control system will benefit me because I will be able to track the changes to my work throughout the week. I can see my history and test out different things. 
+My favorite kid of art is photography.
