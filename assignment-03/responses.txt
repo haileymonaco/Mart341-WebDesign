@@ -1,0 +1,4 @@
+1. I enjoy visiting [Youtube](https://www.youtube.com/), [Instagram](https://www.instagram.com/), and [Twitter](https://twitter.com/)
+2. The relationship between an IP address and the DNS is your computer uses the DNS to look up domain names and get the associated IP address which is used to connect your computer to the destination on the internet.
+3. A cookie is a file stored on your computer.
+4. The three essential parts of a URL are the protocol, the domain name and the path.
