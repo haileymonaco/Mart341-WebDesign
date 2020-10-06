@@ -1,0 +1,3 @@
+1. I think a form I come across daily would be when I am watching YouTube and something comes up like "out of all of these brands, which have you heard of" and then gives me a list of brands to choose.
+2. Text creates a box where users can type information, like their name. Selection is a way to control the end-user's choices, like asking for who you are voting for in the next election. Buttons are interactive elements that provide graphic interest and functionality, like an upload button on Moodle.
+3. This week seemed a little harder than the previous weeks, with a lot more steps to get something that you're wanting to show up. 
