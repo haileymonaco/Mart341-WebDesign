@@ -1,0 +1,3 @@
+1. A system font is already installed on your local device, but not necessarily available to the web. Web fonts are custom fonts hosted on a server and do not have to be available on a user's device to appear but require certain elements to appear correctly. Web-safe fonts are fonts that developers can count on being available by the system.
+2. It is important to have font fallbacks for the browsers to try to load if the primary choice font fails.
+3. A main challenge for me was trying to find a fonts that I liked and that went well together. I think I did the fallback font right, however I am not sure. 
