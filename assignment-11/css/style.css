@@ -17,11 +17,8 @@ h1, h2, h4{
   font-weight: 600;
 }
 
-.opening-paragraph::first-letter{
-  font-size: 30px;
-}
 .opening-paragraph::first-line{
-  font-size: 25px;
+  font-size: 30px;
 }
 .second-paragraph{
   font-size: 16px;
