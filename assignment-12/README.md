@@ -1,0 +1,2 @@
+1. Padding is the amount of space between the inner content of the element and the actual element itself. The margin is the space between the element and other elements. A boarder is the edging around an element.
+2. I tried really hard to overlay my images on top of each other, but that didn't work at all. I am not entirely sure what I did wrong, and tried many different things to fix it. However, they never ended up overlapping a little like I wanted, so I guess I didn't overcome that problem, but I am still happy with my finished product. 
