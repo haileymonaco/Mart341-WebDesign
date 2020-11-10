@@ -21,6 +21,11 @@ p {
   grid-template-columns: repeat(12, 1fr);
 }
 
+.image-stack::after {
+  content: ' ';
+  display: table;
+  clear: both;
+}
 
 
 .image-stack__item--top {
