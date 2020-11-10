@@ -15,10 +15,10 @@ p {
   max-width: 900px;
 }
 
-.image-stack::after {
-  content: ' ';
-  display: table;
-  clear: both;
+.image-stack {
+  display: grid;
+  position: relative;
+  grid-template-columns: repeat(12, 1fr);
 }
 
 .image-stack__item--top {
