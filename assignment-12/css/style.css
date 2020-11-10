@@ -15,11 +15,6 @@ p {
   max-width: 900px;
 }
 
-.image-stack {
-  display: grid;
-  position: relative;
-  grid-template-columns: repeat(12, 1fr);
-}
 
 .image-stack::after {
   content: ' ';
