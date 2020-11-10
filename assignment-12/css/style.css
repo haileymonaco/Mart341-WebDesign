@@ -15,26 +15,24 @@ p {
   max-width: 900px;
 }
 
-
-.image-stack::after {
-  content: ' ';
-  display: table;
-  clear: both;
+.image-stack {
+  display: grid;
+  position: relative;
+  grid-template-columns: repeat(12, 1fr);
 }
 
 
 .image-stack__item--top {
     float: left;
-    width: 66%;
-    margin-right: -100%;
-    padding-top: 15%;
-    position: relative;
-    z-index: 1;
+    grid-row: 1;
+    grid-column: 1 / span 8;
+    padding-top: 20%;
 }
 
 .image-stack__item--bottom {
     float: right;
-    width: 75%;
+    grid-column: 4 / -1;
+    grid-row: 1;
 }
 
 .imgage {
