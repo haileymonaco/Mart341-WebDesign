@@ -116,9 +116,11 @@ header{
   content: url("../images/dogs-image-1.jpg")
 }
 
+@media only screen and (min-width: 600px){
 .secondimage{
   float:right;
   content: url("../images/dogs-image-2.jpg")
+}
 }
 
 .thirdimage{
