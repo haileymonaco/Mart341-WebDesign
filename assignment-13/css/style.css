@@ -124,17 +124,17 @@ header{
 }
 
 .thirdimage{
-  margin: auto;
+  margin: center;
   content: url("..images/dogs-image-3.jpg")
 }
 
 .fouthimage{
-  margin: auto;
+  margin: center;
   content: url("..images/dogs-image-4.jpg")
 }
 
 .fifthimage{
-  margin: auto;
+  margin: center;
   content: url("..images/dogs-image-5.jpg")
 }
 
