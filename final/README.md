@@ -1,0 +1,3 @@
+1. I came into this class knowing absolutely nothing about web development. I had never heard of GitHub before this, so I learned all about GitHub, version control, repositories and everything in between during this class.
+2. I didn't learn anything new this week about web design, but I did have to review a bit. I even had to review how to italicize words again. I did learn how much fun it is looking for colors for your website and picking ones to match your theme and that go together.
+3. I really wanted to make the layout of my images look nice together, so that was kind of challenging, but I overcame it by trial and error until I got it looking the way I wanted it to. 
