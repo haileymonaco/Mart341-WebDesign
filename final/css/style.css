@@ -86,7 +86,6 @@ header{
 .secondimage{
   float:right;
   content: url("../images/image-b.JPG")
-  width: auto;
 }
 }
 
