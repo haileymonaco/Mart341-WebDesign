@@ -80,13 +80,13 @@ header{
 .mainimage{
   float: left;
   content: url("../images/image-a.JPG")
-  width: 1000;
 }
 
 @media only screen and (min-width: 600px){
 .secondimage{
   float:right;
   content: url("../images/image-b.JPG")
+  width: auto;
 }
 }
 
