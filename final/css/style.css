@@ -96,12 +96,12 @@ header{
 
 .fouthimage{
   margin: center;
-  content: url("..images/image-d.JPG")
+  content: url("/images/image-d.JPG")
 }
 
 .fifthimage{
   margin: center;
-  content: url("..images/image-e.JPG")
+  content: url("images/image-e.JPG")
 }
 
 .col-1 {width: 8.33%;}
